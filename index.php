@@ -11,6 +11,10 @@ and open the template in the editor.
     </head>
     <body>
         <h1>Bread Products</h1>
-        <p>List of Breads</p>
+        <p>List of bread products</p>
+        
+        <h2>Seasonable Breads</h2>
+        
+        <p>List</p>
     </body>
 </html>
