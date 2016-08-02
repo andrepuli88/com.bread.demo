@@ -17,6 +17,7 @@ and open the template in the editor.
         <h2>Seasonable Breads</h2>
         
         <p>List</p>
+        <span>Notes: stuff</span>
         
         <span>ingredients list</span>
         <p>List</p>
