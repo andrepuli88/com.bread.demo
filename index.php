@@ -10,8 +10,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <?php
-        // put your code here
-        ?>
+        <h1>Bread Products</h1>
+        <p>List of Breads</p>
     </body>
 </html>
